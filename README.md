@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm RAFFA</h1>
-<h3 align="center">Hello! I am an Argentine student currently enrolled in a software development technician program. I am passionate about exploring both software and hardware, and I have worked on both personal and client projects, learning from various technologies. I have a personal preference for developing management systems as they require a lot of organization and teamwork. I am a responsible developer who always seeks to innovate and grow every day. Knowledge never takes up space!</h3>
+<h3 align="center">Hello! I am an Argentine student currently enrolled in a software development technician program. Currently learning various technologies. I have a personal preference for the development of management systems, since they require a lot of organization and teamwork. I am a responsible developer who always seeks to innovate and grow every day. Knowledge never takes up space!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Raff4-Gau&label=Profile%20views&color=0e75b6&style=flat" alt="raff4-gauna" /> </p>
 
