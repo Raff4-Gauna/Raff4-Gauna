@@ -3,7 +3,7 @@
 
 <hr>
 
-- 🌱 I’m currently learning **Python - Django - Java - Spring Boot**
+- 🌱 I’m currently learning **Python - Django - SQL**
 
 - 📫 How to reach me **rafaelgauna123@gmail.com**
 <hr>
